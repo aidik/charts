@@ -11,7 +11,7 @@
         }],
         "description": "Global, Versioned, peer-to-peer filesystem.",
         "home": "https://www.chia.net/",
-        "icon": "https://www.chia.net/img/chia_logo.svg",
+        "icon": "https://www.chia.net/wp-content/uploads/2022/09/chia-logo.svg",
         "keywords": ["storage", "crypto", "blockchain"],
         "name": "chia",
         "sources": ["https://github.com/Chia-Network/chia-blockchain", "https://github.com/orgs/chia-network/packages/container/package/chia"],
